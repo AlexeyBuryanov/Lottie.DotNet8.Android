@@ -5,7 +5,7 @@
     <RootNamespace>Lottie.DotNet8.Android</RootNamespace>
     <PackageId>Lottie.DotNet8.Android</PackageId>
     <Description>Render After Effects animations natively on Android. Port for .NET 8.</Description>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Nullable>enable</Nullable>
     <ImplicitUsings>true</ImplicitUsings>
     <IsBindingProject>true</IsBindingProject>
@@ -58,9 +58,5 @@
   <ItemGroup>
     <Compile Include="Resources\Resource.Designer.cs" />
   </ItemGroup>
-  
-  <ItemGroup>
-    <Content Include="Jars\AboutJars.txt" />
-  </ItemGroup>
-  
+
 </Project>
